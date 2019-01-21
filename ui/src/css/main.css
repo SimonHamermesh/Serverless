@@ -1,0 +1,14 @@
+body {
+    line-height: 2;
+}
+
+@font-face {
+  font-family: MyFont;
+  src:  url(font/hippy.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+
+.simon {
+	font-family: 'MyFont'
+}

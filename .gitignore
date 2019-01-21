@@ -1,0 +1,6 @@
+build/*
+
+serverless/*
+
+ui/build/*
+ui/node_modules/*
